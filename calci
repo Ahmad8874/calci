@@ -2,3 +2,4 @@ add a+b+c
 dif a-b
 mul a*b
 div a/b
+mod a%b
