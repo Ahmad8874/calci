@@ -3,3 +3,4 @@ dif a-b
 mul a*b
 div a/b
 mod a%b
+eq a=b
